@@ -15,6 +15,8 @@
 
     {{--  ...............css Link......... --}}
     <link rel="stylesheet" type="text/css" href="{{ asset('css/header.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/index.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/footer.css') }}">
     <title>Document</title>
 </head>
 

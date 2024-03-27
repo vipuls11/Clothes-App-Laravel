@@ -1,6 +1,7 @@
 <div>
     <div class="header_free_details">
-        <marquee behavior="" direction="">Free Shipping Sitewide on Every Order, Don’t Miss Out!!</marquee>
+        <marquee behavior="" direction="" class="m-0">Free Shipping Sitewide on Every Order, Don’t Miss Out!!
+        </marquee>
     </div>
     <div class="d-flex bg-dark align-items-center px-3 justify-content-between">
         <div class=" text-white">
@@ -14,410 +15,412 @@
             </div>
         </div>
     </div>
-    <div class="d-flex align-items-center justify-content-between px-3 py-2" style="background-color: bisque;">
-        <div class="d-flex align-items-center">
-            <img src="{{ asset('image/logo-see-rare.webp') }}" alt="" class="" style="width: 70px;">
-            <span class="fw-bold fs-5 ">seerare</span>
-        </div>
-        <div class="All-Category">
-            <ul class="d-flex m-0 gap-5 text-uppercase fs-6 fw-semibold" style="list-style: none;">
-                <li class="Men">Men
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
+    <div class="">
+        <div class="d-flex align-items-center justify-content-between px-3 py-2" style="background-color: white;">
+            <div class="d-flex align-items-center">
+                <img src="{{ asset('image/logo-see-rare.webp') }}" alt="" class="" style="width: 70px;">
+                <span class="fw-bold fs-5 ">seerare</span>
+            </div>
+            <div class="All-Category">
+                <ul class="d-flex m-0 gap-5 text-uppercase fs-6 fw-semibold" style="list-style: none;">
+                    <li class="Men">Men
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                </li>
-                <li class="Men">WoMen
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="Men">Combos
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
+                    </li>
+                    <li class="Men">WoMen
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </li>
-                <li class="Men">Cargo Joggers
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li class="Men">Men's Shirts
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
+                    </li>
+                    <li class="Men">Combos
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </li>
-                <li class="Men">New Arrival
-                    <div class="Men-menu">
-                        <div class="sub-menu">
-                            <div>
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <ul>
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                                <ul class="mt-3">
-                                    <h5>T-shirt</h5>
-                                    <li>gfdhgfhgjhk</li>
-                                    <li>gnjghk</li>
-                                    <li>hgfjghfjh</li>
-                                    <li>gjghjfhgkfh</li>
-                                    <li>gjghfdkyhmhfg</li>
-                                </ul>
-                            </div>
-                            <div class="">
-                                <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
-                                    alt="hello" style="width: 300px;">
+                    </li>
+                    <li class="Men">Cargo Joggers
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="d-flex">
-            <button class="search_glass border-0  bg-transparent fs-5" onclick="myFunction()"><i
-                    class="fa-solid fa-magnifying-glass"></i>
-            </button>
-            <!-- Button trigger modal -->
-            <button class="border-0  bg-transparent fs-5" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
-                    class="fa-solid fa-heart"></i></button>
-            <!-- Button trigger modal -->
-            <button class="border-0  bg-transparent fs-5"><i class="fa-solid fa-cart-shopping"></i></button>
-            <button class="humburger border-0  bg-transparent fs-5"><i class="fa-solid fa-bars"></i></button>
+                    </li>
+                    <li class="Men">Men's Shirts
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="Men">New Arrival
+                        <div class="Men-menu">
+                            <div class="sub-menu">
+                                <div>
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <ul>
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                    <ul class="mt-3">
+                                        <h5>T-shirt</h5>
+                                        <li>gfdhgfhgjhk</li>
+                                        <li>gnjghk</li>
+                                        <li>hgfjghfjh</li>
+                                        <li>gjghjfhgkfh</li>
+                                        <li>gjghfdkyhmhfg</li>
+                                    </ul>
+                                </div>
+                                <div class="">
+                                    <img src="https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/lush_green_men_base_19_05_2023_700x933.jpg"
+                                        alt="hello" style="width: 300px;">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="d-flex">
+                <button class="search_glass border-0  bg-transparent fs-5" onclick="myFunction()"><i
+                        class="fa-solid fa-magnifying-glass"></i>
+                </button>
+                <!-- Button trigger modal -->
+                <button class="border-0  bg-transparent fs-5" data-bs-toggle="modal"
+                    data-bs-target="#exampleModal"><i class="fa-solid fa-heart"></i></button>
+                <!-- Button trigger modal -->
+                <button class="border-0  bg-transparent fs-5"><i class="fa-solid fa-cart-shopping"></i></button>
+                <button class="humburger border-0  bg-transparent fs-5"><i class="fa-solid fa-bars"></i></button>
+            </div>
         </div>
     </div>
 </div>
@@ -488,11 +491,13 @@
 {{-- ..................search product............. --}}
 <script>
     function myFunction() {
-        var x = document.getElementById("myDIV");
+        let x = document.getElementById("myDIV");
         if (x.style.display === "none") {
             x.style.display = "block";
         } else {
             x.style.display = "none";
         }
     }
+
+    myFunction()
 </script>

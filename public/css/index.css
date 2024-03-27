@@ -1,0 +1,32 @@
+
+#clothes_slider{
+    position: relative;
+}
+
+#next-btn{
+    position: absolute;
+    top: 40%;
+    left: 5px;
+    z-index: 500;
+    /* background-color: yellow; */
+    font-weight: 800;
+    font-size: 28px;
+    border: 1px solid black;
+    color: black;
+    /* border-radius: 50%; */
+    /* padding: 4px 10px; */
+}
+
+#prev-btn{
+    position: absolute;
+        top: 40%;
+        right: 5px;
+        z-index: 500;
+        /* background-color: yellow; */
+        font-weight: 800;
+        font-size: 28px;
+        border:1px solid black;
+        color: black;
+        /* border-radius: 50%; */
+        /* padding: 3px 10px; */
+}
